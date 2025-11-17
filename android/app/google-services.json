@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680118767076",
+    "project_id": "kost-hunter-ukk",
+    "storage_bucket": "kost-hunter-ukk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680118767076:android:5006eac977dc35764ccbf1",
+        "android_client_info": {
+          "package_name": "com.example.kost_hunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_jbXwDs6LMStaWZXB6a0qYWCrUS1i6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680118767076:android:4b3517d7199eff3f4ccbf1",
+        "android_client_info": {
+          "package_name": "com.kosthunter.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_jbXwDs6LMStaWZXB6a0qYWCrUS1i6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
